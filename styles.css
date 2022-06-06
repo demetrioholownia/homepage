@@ -166,6 +166,10 @@ body {
     color: var(--secondary-text-color);
     text-align: justify;
 }
+.skills__text-formatted{
+    font-size: 15px;
+    padding-left: 15px;
+}
 .experiences {
     flex: 1 1 60%;
     margin-right: 50px;
