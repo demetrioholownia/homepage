@@ -251,6 +251,7 @@ body {
 
 .additional-info__education-university-name {
     color: var(--secondary-text-color);
+    text-align: justify;
 }
 
 .additional-info__languages {
